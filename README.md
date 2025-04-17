@@ -1,4 +1,4 @@
-# Lecture 22: Spatial UI
+# Lecture 26: Spatial UI
 
 In this this lecture, we will implement a spatial user interface for system control in Godot.
 
